@@ -1,4 +1,4 @@
-FROM rabbitmq:management-alpine
+FROM rabbitmq:3.6.10-management
 
 LABEL maintainer="cjbarre@gmail.com" \
       version="1.0"
